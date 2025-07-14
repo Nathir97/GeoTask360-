@@ -1,0 +1,6 @@
+@HrmApi_HostAddress = http://localhost:5104
+
+GET {{HrmApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
